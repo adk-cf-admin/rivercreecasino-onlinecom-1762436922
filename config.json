@@ -1,0 +1,204 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#EFEFEF",
+            "welcome-bonus-bg": "#EFEFEF",
+            "top-games-hover-fg": "#121212",
+            "main-bg": "#ffffff",
+            "text": "#121212",
+            "text-black": "#121212",
+            "table-head": "#121212",
+            "text-head": "#ffffff",
+            "hero-title-text": "#242321",
+            "welcome-bonus-text": "#D5A66B",
+            "yellow": "#142258",
+            "yellow-button": "#D5A66B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#242321",
+            "casino-cards": "#EFEFEF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#D5A66B",
+            "faq-label": "#EFEFEF",
+            "bg-footer": "#242321",
+            "copyright": "#e7e7d5",
+            "starColor": "#111F53",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/12",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "River Cree Resort & Casino",
+            "title": "River Cree Casino Edmonton \u2014 Hotel, Gaming, Dining & Live Shows",
+            "description": "Discover River Cree Resort & Casino \u2014 a modern destination offering gaming, hotel stays, dining, concerts, and the Players Club loyalty program. The perfect place for entertainment in Edmonton.\n",
+            "canonical": "rivercreecasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/413",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "rivercreecasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/406",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/407"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/404",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "River Cree Resort & Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "H1 title about casino",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/408",
+            "imageSizeModifier": 10,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/409",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and table games.",
+                "Spacious poker room for card enthusiasts.",
+                "VIP Embers area with premium gaming.",
+                "Variety of restaurants and bars onsite.",
+                "Modern hotel with pool and fitness center.",
+                "Large venue for concerts and events."
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "River Cree Resort & Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/410",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "River Cree Resort & Casino App",
+            "mobileGooglePlayImageTitle": "River Cree Resort & Casino App",
+            "mobileIosImageTitle": "River Cree Resort & Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "River Cree Resort & Casino",
+                "description1": "",
+                "items": [
+                    "Jackpots up to $2,500 for Royal Flush.",
+                    "Progressive High Hand prizes monthly.",
+                    "Bonuses up to $750 + 200 free spins."
+                ],
+                "description2": "River Cree Resort & Casino is a modern entertainment destination combining gaming, comfortable accommodations, and diverse dining options. Guests can enjoy a vibrant casino atmosphere with numerous slot machines and table games, as well as try their luck in poker. The resort features stylish rooms, restaurants offering various cuisines, and bars for relaxation. For fans of live shows and concerts, there is a spacious event venue. It\u2019s an ideal spot for those seeking a mix of gaming, leisure, and entertainment in one location.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/411",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": " A World of Gaming and Entertainment",
+                "description": "<p> River Cree Resort & Casino is a modern destination that combines thrilling gaming, comfortable accommodations, and a wide range of leisure options. The casino offers an atmosphere of excitement and luxury, where guests can enjoy slot machines, classic table games, and a spacious poker room. For those seeking an exclusive experience, a VIP area provides premium gaming and personalized service.\n<\/p>\n<br>\n<p> The resort features stylish bars and restaurants serving diverse cuisines and signature cocktails. Guests can choose a cozy family restaurant, a lively sports bar with live game broadcasts, or a relaxing lounge for unwinding. Every corner of the resort is designed to create unforgettable moments and a festive atmosphere.\n<\/p>\n<br>\n<p> River Cree\u2019s hotel offers contemporary rooms with elegant design, a swimming pool, a fitness center, and all amenities for a comfortable stay. It\u2019s an ideal choice for both short getaways and extended vacations. Spacious halls and conference facilities make it perfect for business meetings, banquets, and special events.\n<\/p>\n<br>\n<p> Entertainment at the resort includes concerts, live shows, and sports activities. The Venue hosts performances by renowned artists, while Twin Rinks attracts hockey enthusiasts. There\u2019s always something happening \u2014 from gaming excitement to cultural experiences.\n<\/p>\n<br>\n<p> Loyalty programs and bonus offers are available for returning guests, providing exclusive benefits, discounts, and special deals. This makes a stay at River Cree not only enjoyable but also rewarding, ensuring guests keep coming back for more.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting River Cree Resort & Casino\n<\/h3>\n\n<p> Visiting River Cree Resort & Casino requires following certain guidelines to ensure comfort and safety for all guests. The casino is designed for adult visitors, so age restrictions and dress requirements are essential. The administration aims to maintain an atmosphere of style and respect, making dress code and entry conditions important.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main Rules and Conditions<\/h4>\n        <ul>\n            <li>\u2022 Entry is allowed only for guests 18+ with valid ID.\n<\/li>\n            <li>\u2022 Weapons, illegal substances, and outside beverages are prohibited.\n<\/li>\n            <li>\u2022 Photography and video recording in gaming areas are restricted.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n\n        <ul>\n            <li>\u2022 Neat, clean attire in casual or smart casual style is recommended.\n<\/li>\n            <li>\u2022 Beachwear, torn clothing, sports uniforms, and overly revealing outfits are not permitted.\n<\/li>\n            <li>\u2022 Shoes must be closed and clean.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Visiting Conditions<\/h4>\n\n        <ul>\n            <li>\u2022 Guests must follow responsible gaming practices.\n<\/li>\n            <li>\u2022 The administration reserves the right to deny entry for inappropriate behavior.\n<\/li>\n            <li>\u2022 Registration in the loyalty program is required for bonus offers.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayers Club Loyalty Program \u2014 Your Exclusive Benefits at River Cree\n<\/h3>\n\n<p> The River Cree Resort & Casino loyalty program, called Players Club, is designed to make every visit rewarding and enjoyable. Membership is completely free and registration takes just minutes. Members gain access to exclusive offers, discounts, and bonuses across all areas of the resort \u2014 from gaming to dining and accommodations. The system is based on earning points through play and purchases, which can be redeemed for River Cree Bucks and used toward services. The more you play, the higher your tier and the greater your benefits, including personalized offers and VIP events. The program features four tiers, each unlocking new privileges and bonuses.<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Program Benefits<\/h4>\n        <ul>\n            <li>\u2022 Free membership and instant registration.\n<\/li>\n            <li>\u2022 15% discount on hotel stays.\n<\/li>\n            <li>\u2022 10% discount at restaurants and gift shops (excluding Cha Xpress and Fatburger).\n<\/li>\n<li>\u2022 Access to VIP dinners, tournaments, and events.\n<\/li>\n            <li>\u2022 Priority ticket access for concerts and shows.\n<\/li>\n            <li>\u2022 Monthly giveaways, promotions, and special draws.\n<\/li>\n            <li>\u2022 Birthday bonus: slot free play from $5 to $500.\n\n<\/li>\n        <\/ul>\n        <br>\n\n \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Points and Redemption<\/h4>\n        <ul>\n            <li>\u2022 Every 2,000 points equals $1 River Cree Bucks.\n<\/li>\n            <li>\u2022 Points earned through slots, table games, dining, and hotel stays.\n<\/li>\n            <li>\u2022 Extra points for jackpots and special member days.\n\n<\/li>\n        <\/ul>\n        <br>\n\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Players Club Tiers<\/h4>\n\n\n        <ul>\n            <li>\u2022 Platinum \u2014 entry-level for all members.\n<\/li>\n            <li>\u2022 Gold \u2014 enhanced bonuses and exclusive offers.\n<\/li>\n            <li>\u2022 Diamond \u2014 personalized perks and VIP service.\n<\/li>\n            <li>\u2022 Elite \u2014 top-tier privileges, including private event invitations.\n\n<\/li>\n\n        <\/ul><br>\n    <\/div>\n<\/div>\n<br>\n\n\n\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at River Cree Resort & Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRiver Cree Bonuses and Special Offers\n<\/h3>\n\n<p> River Cree Resort & Casino offers guests not only thrilling games but also a wide range of bonuses, promotions, and seasonal events that make every visit exciting and rewarding. Regular poker tournaments, special table game offers, and unique promotions with big cash prizes keep the energy high. The casino hosts themed events, holiday giveaways, and dining specials that complement the vibrant atmosphere. Monthly jackpots for poker players and free bet options on popular games add extra chances to win. Seasonal entertainment includes concerts, live shows, and sports events, turning your stay into an unforgettable experience.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses and Offers<\/h4>\n\n\n        <ul>\n            <li>\u2022 Poker Tournaments:\nMonday Madness \u2014 weekly on Mondays, buy-in $75, prize pool based on entries.\nDeep Stack Tournament \u2014 twice a month, buy-in $315, starting stack 25,000 chips.<\/li>\n            <li>\u2022 Table Game Promotions:\nFree Bet Blackjack \u2014 double down or split for free. Minimum bet $15, maximum $400. Side bet Pot of Gold pays up to $25.<\/li>\n            <li>\u2022 Jackpots and Cash Prizes:\nHigh Hand Jackpots \u2014 monthly prizes for top poker hands:\n\nStraight Flush \u2014 $1,000;\nRoyal Flush \u2014 $2,500;\nProgressive Jackpot \u2014 grows to tens of thousands.<\/li>\n            <li>\u2022 Seasonal Events:\nConcerts and shows at The Venue, sports events at Twin Rinks, holiday promotions with cash and gift giveaways.<\/li>\n\t    <li>\u2022 Dining Specials:\nTap 25 \u2014 Happy Hour drinks for $5.25, up to 50% off menu items on select days.<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at River Cree Resort & Casino\n<\/h3>\n\n<p> River Cree Resort & Casino offers a wide range of exciting games for both casual players and seasoned enthusiasts. The gaming floor features modern slot machines with diverse themes and features, including progressive jackpots. Fans of table games can enjoy classics like blackjack, roulette, baccarat, and popular poker variants such as Ultimate Texas Hold\u2019em and Three Card Poker. For high-stakes players, the High Limit area and the VIP Embers section provide premium gaming experiences. The poker room, equipped with 12 tables, hosts cash games and regular tournaments, creating a competitive and lively atmosphere. Open 24\/7, the casino ensures endless entertainment for every type of player.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Games<\/h4>\n\n\n        <ul>\n            <li>\u2022 Slots: classic, video slots, progressive jackpots.\n<\/li>\n            <li>\u2022 Table Games: blackjack, roulette, baccarat, craps.\n<\/li>\n            <li>\u2022 Poker: Ultimate Texas Hold\u2019em, Three Card Poker, Pai Gow.\n<\/li>\n            <li>\u2022 High Limit Games: blackjack and baccarat for high rollers.\n<\/li>\n\t    <li>\u2022 Poker Room: 12 tables, tournaments, and cash games.\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at River Cree Resort & Casino\n<\/h3>\n\n<p> River Cree Resort & Casino offers a wide range of betting limits suitable for both beginners and high rollers. Slot machines start with very low minimum bets, while high-limit areas cater to players seeking bigger thrills. Table games also provide flexible options, from accessible stakes for casual players to elevated limits in VIP sections. This diversity ensures an enjoyable experience for every type of guest.<\/p>\n\n<br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#D5A66B; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$25 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $400 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Cash)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">No Limit\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><p>\nHigh-limit Embers area offers up to $25 slots and elevated table game limits.\n<\/p><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment and Events at River Cree Resort & Casino\n<\/h3>\n\n<p> River Cree Resort & Casino is not just about gaming \u2014 it\u2019s a hub for vibrant entertainment and unforgettable experiences. The main stage for concerts and shows is The Venue, one of the top event spaces in the Greater Edmonton area. It hosts world-class concerts, tribute acts, theatrical performances, and comedy nights. With a capacity ranging from 500 to 2,500 guests, The Venue offers an intimate yet dynamic atmosphere for any event.<\/p>\n<br>\n<p>Regular entertainment includes live music, themed parties, and sports broadcasts in the bars. Nightlife is a major highlight: guests can enjoy the lively Centre Bar at the heart of the casino or relax at Tap 25 Sports Bar, featuring big-screen hockey games and casual dining. Dance parties and DJ nights are frequently organized, creating an energetic vibe for those who love club-style fun. <\/p>\n<br>\n<p>Special events range from Thunder from Down Under to holiday celebrations and exclusive shows. The event calendar features rock concerts, pop performances, comedy acts, and even circus productions like Cirque Musica Holiday Wonderland, making River Cree the ultimate destination for diverse entertainment.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment Highlights<\/h4>\n\n\n        <ul>\n            <li>\u2022 The Venue \u2014 premier stage for concerts, shows, and comedy nights.\n<\/li>\n            <li>\u2022 Centre Bar \u2014 stylish casino bar with live music.\n<\/li>\n            <li>\u2022 Tap 25 Sports Bar \u2014 sports bar with game broadcasts and snacks.\n<\/li>\n            <li>\u2022 Live Concerts \u2014 performances by top artists and tribute bands (U2, April Wine, ZZ Top).\n<\/li>\n            <li>\u2022 Comedy Nights \u2014 stand-up shows and humorous acts.\n<\/li>\n            <li>\u2022 Themed Parties \u2014 Halloween Howler, New Year\u2019s Eve celebrations, club nights.\n<\/li>\n            <li>\u2022 Circus Shows \u2014 Cirque Musica and holiday productions.\n<\/li>      \n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDining, Relaxation & Comfort at River Cree Resort & Casino\n<\/h3>\n\n<p> River Cree Resort & Casino is more than just a casino \u2014 it\u2019s a full-scale resort where every guest can find their ideal way to unwind. The casino offers a modern gaming experience with a wide selection of slot machines, table games, and a dedicated poker room, along with the VIP Embers area for premium and private play. The heart of the resort is not only about gaming but also about relaxation, socializing, and enjoying life.\n<\/p>\n<br>\n<p> The property features several restaurants and bars, each with its own unique vibe and menu. The hotel offers 249 stylish rooms, a pool, fitness center, and facilities for both business and celebratory events. Guests can enjoy live music, shows, hockey games at the twin ice rinks, or simply a cozy evening by the fireplace with a cup of coffee. River Cree is the perfect destination for entertainment, leisure, and memorable experiences.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dining & Lounge Options\n\n<\/h4>\n\n\n        <ul>\n            <li>\u2022 The Kitchen Restaurant \u2013 family-friendly Western cuisine.\n<\/li>\n            <li>\u2022 Tap 25 Sports Bar \u2013 sports broadcasts and hearty meals.\n<\/li>\n            <li>\u2022 Cha Xpress \u2013 Cantonese dishes, dim sum, noodles, BBQ.\n<\/li>\n            <li>\u2022 Fatburger \u2013 classic burgers, fries, and shakes.\n<\/li>\n            <li>\u2022 Cree Subs \u2013 sandwiches, hot dogs, and taco bowls.\n<\/li>\n            <li>\u2022 Lobby Coffee Bar \u2013 Starbucks coffee, snacks, and pastries.\n<\/li>\n            <li>\u2022 Onyx Lounge \u2013 cocktails and light bites in Embers.\n<\/li>\n            <li>\u2022 Centre Bar \u2013 stylish 360\u00b0 bar at the casino\u2019s center.\n<\/li>\n\t  \n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How do I register for the Players Club?",
+                    "answer": "Visit the Players Club desk with valid photo ID. Registration is free and quick.\n\n\n"
+                },
+                {
+                    "title": "Is there a birthday bonus?",
+                    "answer": "Yes, slot free play from $5 to $500 during your birthday month.\n\n\n"
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, credit\/debit cards, e-wallets \u2014 depending on the platform.\n\n\n"
+                },
+                {
+                    "title": "Can I pay with River Cree Bucks?",
+                    "answer": "Yes, they\u2019re accepted at restaurants, hotel, and gift shop.\n\n\n"
+                },
+                {
+                    "title": "How do I reach VIP status?",
+                    "answer": "Earn enough points within a 12-month period.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/405",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "River Cree Resort & Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
